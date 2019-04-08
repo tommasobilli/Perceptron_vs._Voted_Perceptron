@@ -1,0 +1,174 @@
+###########################
+# BANKNOTE AUTHENTICATION #
+###########################
+Test set size: 274
+Perceptron errors: 4 | Accuracy: 98.54%.
+Perceptron confusion matrix:
+[[122.   4.]
+ [  0. 148.]]
+Voted perceptron errors: 3 | Accuracy: 98.91%.
+Voted perceptron confusion matrix:
+[[123.   3.]
+ [  0. 148.]]
+
+Test set size: 274
+Perceptron errors: 7 | Accuracy: 97.45%.
+Perceptron confusion matrix:
+[[120.   3.]
+ [  4. 147.]]
+Voted perceptron errors:  | Accuracy: 98.18%.
+Voted perceptron confusion matrix:
+[[118.   5.]
+ [  0. 151.]]
+
+Test set size: 274
+Perceptron errors: 6 | Accuracy: 97.81%.
+Perceptron confusion matrix:
+[[129.   5.]
+ [  1. 139.]]
+Voted perceptron errors: 1 | Accuracy: 99.64%.
+Voted perceptron confusion matrix:
+[[133.   1.]
+ [  0. 140.]]
+
+Test set size: 274
+Perceptron errors: 2 | Accuracy: 99.27%.
+Perceptron confusion matrix:
+[[116.   1.]
+ [  1. 156.]]
+Voted perceptron errors: 2 | Accuracy: 99.27%.
+Voted perceptron confusion matrix:
+[[115.   2.]
+ [  0. 157.]]
+
+Test set size: 276
+Perceptron errors: 8 | Accuracy: 97.1%.
+Perceptron confusion matrix:
+[[102.   8.]
+ [  0. 166.]]
+Voted perceptron errors: 4 | Accuracy: 98.55%.
+Voted perceptron confusion matrix:
+[[108.   2.]
+ [  2. 164.]]
+
+
+Perceptron average accuracy: 98.03%.
+Voted perceptron average accuracy: 98.91%.
+
+
+###########################
+######### PHISHING ########
+###########################
+Test set size: 2211
+Perceptron errors: 286 | Accuracy: 87.06%.
+Perceptron confusion matrix:
+[[1156.   79.]
+ [ 207.  769.]]
+Voted perceptron errors: 176 | Accuracy: 92.04%.
+Voted perceptron confusion matrix:
+[[1171.   64.]
+ [ 112.  864.]]
+
+Test set size: 2211
+Perceptron errors: 289 | Accuracy: 86.93%.
+Perceptron confusion matrix:
+[[1071.  115.]
+ [ 174.  851.]]
+Voted perceptron errors: 166 | Accuracy: 92.49%.
+Voted perceptron confusion matrix:
+[[1142.   44.]
+ [ 122.  903.]]
+
+Test set size: 2211
+Perceptron errors: 252 | Accuracy: 88.6%.
+Perceptron confusion matrix:
+[[1122.   83.]
+ [ 169.  837.]]
+Voted perceptron errors: 175 | Accuracy: 92.09%.
+Voted perceptron confusion matrix:
+[[1161.   44.]
+ [ 131.  875.]]
+
+Test set size: 2211
+Perceptron errors: 212 | Accuracy: 90.41%.
+Perceptron confusion matrix:
+[[1143.  114.]
+ [  98.  856.]]
+Voted perceptron errors: 158 | Accuracy: 92.85%.
+Voted perceptron confusion matrix:
+[[1209.   48.]
+ [ 110.  844.]]
+
+Test set size: 2211
+Perceptron errors: 222 | Accuracy: 89.96%.
+Perceptron confusion matrix:
+[[1211.   63.]
+ [ 159.  778.]]
+Voted perceptron errors: 159 | Accuracy: 92.81%.
+Voted perceptron confusion matrix:
+[[1199.   75.]
+ [  84.  853.]]
+
+
+Perceptron average accuracy: 88.59%.
+Voted perceptron average accuracy: 92.46%.
+
+
+###########################
+########## HTRU 2 #########
+###########################
+Test set size: 3579
+Perceptron errors: 100 | Accuracy: 97.21%.
+Perceptron confusion matrix:
+[[ 204.   93.]
+ [   7. 3275.]]
+Voted perceptron errors: 97 | Accuracy: 97.29%.
+Voted perceptron confusion matrix:
+[[ 212.   85.]
+ [  12. 3270.]]
+
+Test set size: 3579
+Perceptron errors: 112 | Accuracy: 96.87%.
+Perceptron confusion matrix:
+[[ 256.  106.]
+ [   6. 3211.]]
+Voted perceptron errors: 187 | Accuracy: 94.78%.
+Voted perceptron confusion matrix:
+[[ 320.   42.]
+ [ 145. 3072.]]
+
+Test set size: 3579
+Perceptron errors: 114 | Accuracy: 96.81%.
+Perceptron confusion matrix:
+[[ 219.  103.]
+ [  11. 3246.]]
+Voted perceptron errors: 95 | Accuracy: 97.35%.
+Voted perceptron confusion matrix:
+[[ 244.   78.]
+ [  17. 3240.]]
+
+Test set size: 3579
+Perceptron errors: 141 | Accuracy: 96.06%.
+Perceptron confusion matrix:
+[[ 278.   48.]
+ [  93. 3160.]]
+Voted perceptron errors: 103 | Accuracy: 97.12%.
+Voted perceptron confusion matrix:
+[[ 230.   96.]
+ [   7. 3246.]]
+
+Test set size: 3582
+Perceptron errors: 724 | Accuracy: 79.79%.
+Perceptron confusion matrix:
+[[ 319.   13.]
+ [ 711. 2539.]]
+Voted perceptron errors: 560 | Accuracy: 84.37%.
+Voted perceptron confusion matrix:
+[[ 311.   21.]
+ [ 539. 2711.]]
+
+
+Perceptron average accuracy: 93.35%.
+Voted perceptron average accuracy: 94.18%.
+
+
