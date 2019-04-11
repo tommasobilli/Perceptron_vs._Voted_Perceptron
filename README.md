@@ -1,6 +1,6 @@
 # Perceptron vs. Voted Perceptron
 
-Questo progetto è stato realizzato per l'esame di Intelligenza Artificiale del corso di laurea in Ingegneria Informatica presso l'Università degli studi di Firenze.
+Questo progetto è stato realizzato per l'esame di Intelligenza Artificiale del corso di laurea in Ingegneria Informatica presso l'Università degli Studi di Firenze.
 
 In questo progetto sono stati implementati gli algoritmi Perceptron e Voted Perceptron con l'obiettivo di confrontarne le prestazioni analizzando la matrice di confusione e l'accuratezza su Dataset con almeno 1000 esempi ciascuno.
 
