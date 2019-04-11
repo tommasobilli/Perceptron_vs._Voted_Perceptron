@@ -20,7 +20,7 @@ class Perceptron:
                     error = self.dataSet.y[i] - prediction
                     self.b += self.l_rate * error
                     for j in xrange(self.dataSet.numAttributes):
-                        self.w[j] = self.w[j] + self.l_rate * error * self.dataSet.x[i][j]
+                        self.w[j] += self.l_rate * error * self.dataSet.x[i][j]
                     numErrors += 1
             iterations += 1
 
