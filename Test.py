@@ -11,7 +11,7 @@ def holdoutValidation(dataset):
     x = dataset.x
     y = dataset.y
     size = dataset.size
-    trainingSize = size / 100 * 80  # <-------------------------------------------------------- set size of training set
+    trainingSize = int(size / 100.0 * 80)  # <------------------------------------------------- set size of training set
     randomList = sample(range(size), trainingSize)
     # sort in descending order to later remove the correct entries from the initial dataset
     randomList.sort(reverse=True)
